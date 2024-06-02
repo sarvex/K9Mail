@@ -27,7 +27,7 @@ dependencies {
     androidTestCompile('com.icegreen:greenmail:1.4.1-SNAPSHOT') {
         exclude group: 'junit'
     }
-    androidTestCompile 'com.madgag.spongycastle:pg:1.51.0.0'
+    androidTestCompile 'com.madgag.spongycastle:pg:1.54.0.0'
 }
 
 android {
